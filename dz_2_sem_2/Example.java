@@ -1,3 +1,4 @@
+package dz_2_sem_2;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.Scanner;
