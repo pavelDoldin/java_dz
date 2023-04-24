@@ -1,0 +1,5 @@
+nes (2 sloc)  95 Bytes
+ 
+
+мар. 30, 2023 9:22:48 PM dz_2_sem_2.Example WriteAnswerToFile
+INFO: Файл записан
